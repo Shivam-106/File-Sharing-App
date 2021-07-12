@@ -1,0 +1,5 @@
+nodeServer/.env
+nodeServer/uploads/*
+!nodeServer/uploads/.gitkeep
+nodeServer/node_modules
+.DS_Store
